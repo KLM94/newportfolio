@@ -1,4 +1,4 @@
-#page-wrap {
+.page-wrap {
   margin: auto;
 }
 
@@ -7,22 +7,22 @@ body {
   text-align: center;
 }
 
-#nav {
+.nav {
   width: 750px;
   margin: 0 auto;
   list-style: none;
 }
-#nav li {
+.nav li {
   float: left;
 }
-#nav a {
+.nav a {
   display: block;
   text-align: center;
   width: 150px; /* fixed width */
   text-decoration: none;
 }
 
-#title {
+.title {
   background-color: #202c59;
   color: #ffffff;
   font-size: 65px;
